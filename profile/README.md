@@ -1,2 +1,2 @@
-![Greyboard](./resources/banner.png)
+![Greyboard](https://github.com/greyboardapp/.github/blob/master/resources/banner.png?raw=true)
 ### A small online collaborative whiteboard application for mocking, wireframing, solving problems, and sketching
